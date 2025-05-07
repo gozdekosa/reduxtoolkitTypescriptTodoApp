@@ -1,4 +1,3 @@
-import React from 'react'
 import Todo from './Todo'
 import { useSelector } from 'react-redux'
 import type { RootState } from '../redux/store'
